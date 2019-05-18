@@ -1,4 +1,4 @@
-# ChasingDeepLearning
+# CompetingDeepLearning
 This repo chases Deep Learning in performance for object [logo] detection using classical Computer Vision and Machine Learning.
 
 ## Objectives:
